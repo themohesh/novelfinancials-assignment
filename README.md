@@ -60,7 +60,14 @@ Fill in your Supabase project details in `.env.local` and `.env.example`.
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## screenshot of ui's url
-1. 
+
+1. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/signup.png
+2. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/signin.png
+3. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/poll-dashboard.png
+4. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/poll-ui.png
+5. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/pie-chart.png
+6. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/bar-chart.png
+7. https://github.com/themohesh/novelfinancials-assignment/blob/master/public/create-new-poll.png
 
 ## Database Schema
 
