@@ -23,40 +23,44 @@ A real-time social polling application built with Next.js, Supabase, and TypeScr
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - A Supabase project
 
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone <repository-url>
-cd social-polling-app
-\`\`\`
+   \`\`\`bash
+   git clone (https://github.com/themohesh/novelfinancials-assignment.git)
+   cd novelfinancials-assignment
+   \`\`\`
 
 2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
+   \`\`\`bash
+   npm install
+   \`\`\`
 
 3. Set up environment variables:
-\`\`\`bash
-cp .env.example .env.local
-\`\`\`
+   \`\`\`bash
+   cp .env.example .env.local
+   \`\`\`
 
-Fill in your Supabase project details in `.env.local`.
+Fill in your Supabase project details in `.env.local` and `.env.example`.
 
 4. Set up the database:
+
    - Go to your Supabase project dashboard
    - Navigate to the SQL Editor
-   - Run the SQL commands from `supabase/schema.sql`
+   - Run the SQL commands from `supabase/setup.sql`
 
 5. Run the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
+   \`\`\`bash
+   npm run dev
+   \`\`\`
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
+
+## screenshot of ui's url
+1. 
 
 ## Database Schema
 
