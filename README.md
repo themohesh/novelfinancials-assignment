@@ -90,12 +90,8 @@ The application uses the following main tables:
 
 ## Deployment
 
-The app is ready for deployment on Vercel:
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Add your environment variables in Vercel dashboard
-4. Deploy
+The app is deployed on Vercel:
+URL-- https://novelfinancials-assignment.vercel.app/auth/login
 
 ## Contributing
 
